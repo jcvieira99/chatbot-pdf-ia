@@ -74,6 +74,7 @@ Neste desafio, desenvolvemos um sistema interativo capaz de:
 
 Conteúdo do arquivo `inputs/perguntas_teste.txt`:t
 
+---
 DESENVOLVIDO POR JEAN CARLOS
 
 
