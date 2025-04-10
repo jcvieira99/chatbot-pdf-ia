@@ -48,16 +48,47 @@ Neste desafio, desenvolvemos um sistema interativo capaz de:
 
 chatbot-pdf-ia/
 │
-├── inputs/                      # Onde você coloca os arquivos PDF e exemplos de sentenças
-│   └── exemplo.txt              # Texto de exemplo extraído dos PDFs
-│
-├── src/                         # Código-fonte principal
-│   ├── ingest.py                # Faz o parsing dos PDFs e gera embeddings
-│   ├── chatbot.py               # Interface do chatbot
-│   ├── utils.py                 # Funções auxiliares
-│   └── config.py                # Configurações e chaves da API
-│
-├── requirements.txt             # Dependências do projeto
-├── README.md                    # Documentação do projeto
-└── .gitignore
+├── inputs/                    
+|   |__AplicativoWeb.jpg
+|   |__Modelo-AI-Foundryjpg.jpg
+|   |__Playgroud-do-Chtat.jpg
+|   |__Webchat.jpg
+|   |__perguntas_teste.txt                         
+├── README.md           
+|__ ChatSetup.json
+|__ playground.py
+
+
+---
+
+## 📸 Prints
+
+### 🔹 Estrutura no AI Foundry Studio
+![AI Foundry](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/Modelo-AI-Foundryjpg.jpg)
+
+### 🔹 Teste na Playground do Chat
+![Playground](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/Playgroud-do-Chtat.jpg)
+
+### 🔹 Aplicativo Web gerado
+![Aplicativo Web](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/AplicativoWeb.jpg)
+
+### 🔹 Web Chat em funcionamento
+![Web Chat](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/Webchat.jpg)
+
+---
+
+## 💡 Aprendizados e Possibilidades
+
+- Entendimento prático sobre embeddings e buscas vetoriais
+- Uso de IA generativa aplicada a documentos reais
+- Como utilizar os serviços da Azure para NLP
+- Criação de assistentes personalizados com base em conhecimento proprietário
+- Escalabilidade de soluções locais para a nuvem com segurança e performance
+
+---
+
+## 🧪 Exemplos de Perguntas Testadas
+
+Conteúdo do arquivo `inputs/perguntas_teste.txt`:t
+
 
