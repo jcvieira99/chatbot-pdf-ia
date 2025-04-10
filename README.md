@@ -44,6 +44,12 @@ Neste desafio, desenvolvemos um sistema interativo capaz de:
 
 ---
 
+## Estrutura do projeto
+
+├── inputs/ # Pasta contendo imagens, configurações e arquivos de entrada │ ├── AplicativoWeb.jpg # Imagem da interface do aplicativo web │ ├── Modelo-AI-Foundryjpg.jpg# Imagem relacionada ao modelo de IA (Foundry) │ ├── Playground-do-Chtat.jpg # Imagem do ambiente Playground do Chat │ ├── Webchat.jpg # Imagem da interface do Webchat │ ├── perguntas_teste.txt # Arquivo de texto com perguntas de teste │ ├── ChatSetup.json # Arquivo JSON com a configuração do chat │ └── README.md # Documentação específica para a pasta inputs (opcional) ├── playground.py # Script principal do projeto └── README.md # Documentação principal do projeto
+
+---
+
 ## 📸 Prints
 
 ### 🔹 Estrutura no AI Foundry Studio
