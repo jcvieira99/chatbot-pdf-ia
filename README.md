@@ -64,16 +64,16 @@ chatbot-pdf-ia/
 ## 📸 Prints
 
 ### 🔹 Estrutura no AI Foundry Studio
-![AI Foundry](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/Modelo-AI-Foundryjpg.jpg)
+![AI Foundry](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/inputs/Modelo-AI-Foundryjpg.jpg)
 
 ### 🔹 Teste na Playground do Chat
-![Playground](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/Playgroud-do-Chtat.jpg)
+![Playground](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/inputs/Playgroud-do-Chtat.jpg)
 
 ### 🔹 Aplicativo Web gerado
-![Aplicativo Web](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/AplicativoWeb.jpg)
+![Aplicativo Web](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/inputs/AplicativoWeb.jpg)
 
 ### 🔹 Web Chat em funcionamento
-![Web Chat](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/Inputs/Webchat.jpg)
+![Web Chat](https://raw.githubusercontent.com/jcvieira99/chatbot-pdf-ia/refs/heads/main/inputs/Webchat.jpg)
 
 ---
 
