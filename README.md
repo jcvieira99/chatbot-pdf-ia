@@ -44,23 +44,6 @@ Neste desafio, desenvolvemos um sistema interativo capaz de:
 
 ---
 
-## 📂 Organização do Projeto
-
-chatbot-pdf-ia/
-│
-├── inputs/                    
-|   |__AplicativoWeb.jpg
-|   |__Modelo-AI-Foundryjpg.jpg
-|   |__Playgroud-do-Chtat.jpg
-|   |__Webchat.jpg
-|   |__perguntas_teste.txt                         
-├── README.md           
-|__ ChatSetup.json
-|__ playground.py
-
-
----
-
 ## 📸 Prints
 
 ### 🔹 Estrutura no AI Foundry Studio
@@ -90,5 +73,7 @@ chatbot-pdf-ia/
 ## 🧪 Exemplos de Perguntas Testadas
 
 Conteúdo do arquivo `inputs/perguntas_teste.txt`:t
+
+DESENVOLVIDO POR JEAN CARLOS
 
 
